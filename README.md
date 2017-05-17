@@ -1,2 +1,2 @@
 # Chess
-MATLAB Chess game with an interactive GUI
+Recreation of Chess in MATLAB with both single-player gameplay against an AI and two-player classic Chess
